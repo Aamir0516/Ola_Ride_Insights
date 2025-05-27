@@ -5,8 +5,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import openpyxl
-import json
-import requests
+
 
 
 # Function to load the data
